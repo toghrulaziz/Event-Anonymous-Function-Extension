@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventTaskCSharp", "EventTaskCSharp\EventTaskCSharp.csproj", "{0312BAFD-ACD1-48FA-839A-CFFE5B29FD0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0312BAFD-ACD1-48FA-839A-CFFE5B29FD0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0312BAFD-ACD1-48FA-839A-CFFE5B29FD0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0312BAFD-ACD1-48FA-839A-CFFE5B29FD0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0312BAFD-ACD1-48FA-839A-CFFE5B29FD0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {84C51BE7-603F-4787-A913-CCD0CDFE910D}
+	EndGlobalSection
+EndGlobal

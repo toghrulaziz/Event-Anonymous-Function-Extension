@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\bin\Debug\net6.0\EventTaskCSharp.exe
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\bin\Debug\net6.0\EventTaskCSharp.deps.json
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\bin\Debug\net6.0\EventTaskCSharp.runtimeconfig.json
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\bin\Debug\net6.0\EventTaskCSharp.dll
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\bin\Debug\net6.0\EventTaskCSharp.pdb
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.AssemblyInfo.cs
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.dll
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\refint\EventTaskCSharp.dll
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.pdb
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\EventTaskCSharp.genruntimeconfig.cache
+C:\Users\User\Desktop\Event,Anonymous Function,Extension\EventTaskCSharp\EventTaskCSharp\obj\Debug\net6.0\ref\EventTaskCSharp.dll
